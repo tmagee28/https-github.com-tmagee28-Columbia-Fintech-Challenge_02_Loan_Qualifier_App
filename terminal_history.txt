@@ -1,0 +1,50 @@
+  513  cd Columbia_Fintech_Challenge_2
+  514  ls
+  515  python app.y
+  516  python app.py
+  517  python3 app.py
+  518  ls
+  519  pip install fire
+  520  pip install questionary
+  521  app.py
+  522  python3.py
+  523  python3 app.py
+  524  python --version
+  525  ln -s /usr/bin/python3
+  526  python --version
+  527  update-alternatives --list python
+  528  pip install pyenv
+  529  pyenv global 3.11.2
+  530  ls
+  531  cd ..
+  532  cd ..
+  533  ls
+  534  cd Columbia\ Fintech\ Python/
+  535  ls
+  536  cd Columbia_Fintech_Challenges
+  537  ls
+  538  cd Columbia_Fintech_Challenge_2_03_30_2023
+  539  ls
+  540  python3 app.py
+  541  python3 --version 
+  542  python3 app.py
+  543  pip --verios
+  544  pip --version
+  545  brew --version
+  546  conda --version
+  547  python3 --version
+  548  fire --version
+  549  python3 fire --version
+  550  pip install fire
+  551  pip fire --version
+  552  pip freeze --version
+  553  python3 app.py
+  554  python3 app.py
+  555  python3 app.py
+  556  python3 app.py
+  557  python3 app.py
+  558  python3 app.py
+  559  python3 app.py
+  560  python3 app.py
+  561  python3 app.py
+  562  history 50 > terminal_history.txt
