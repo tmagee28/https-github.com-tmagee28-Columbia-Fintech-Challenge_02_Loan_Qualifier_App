@@ -1,4 +1,4 @@
-# Columbia Fintech Challenge 2#
+# *Columbia Fintech Challenge 2*
 
 The program as originally written in the starter code will show a user how many loans they qualify for by comparing their current monthly debt, monthly income, desired loan and home value against a daily rate sheet that holds the qualifying requirements for lenders. In addition to letting the user know how many loans that they qualify for, the program will display the user's debt to income ratio and the loan to value ratio.
 
