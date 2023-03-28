@@ -17,7 +17,7 @@ MacBook Air (13-inch, 2017)
     Processor 1.8 GHz Dual-Core Intel Core i5
     macOS Monterey version 12.6.3
 
-![MacInfo](images/mac_information.png)
+![MacInfo](Images/mac_information.png)
 
 ### **Dependencies**
 
@@ -60,8 +60,8 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
-![Loan Qualifier Installs](images/Fire_install.png)
-![Loan Qualifier Installs](images/Questionary_install.png)
+![Loan Qualifier Installs](Images/Fire_install.png)
+![Loan Qualifier Installs](Images/Questionary_install.png)
 
 
 ---
@@ -83,23 +83,23 @@ From terminal, the installed application is run from the installed directory by 
 ```python
   python3 app.py
 ```
-![Python Code](images/app_in_action.png)
+![Python Code](Images/app_in_action.png)
 
 The below will display examples of the steps to take promts the user should expect using multiple examples:
 
 ###    Example 1 - Candidate Qualifying for Multiple Loans
 
-![Example](images/Example_1_LC.png)
-![Example](images/Example_1_SaveCSV.png)
-![Example](images/Example_1_FileName.png)
+![Example](Images/Example_1_LC.png)
+![Example](Images/Example_1_SaveCSV.png)
+![Example](Images/Example_1_FileName.png)
 
 ###    Example 2 - Candidate Qualifying for Multiple Loans that does not want to save data
 
-![Example](images/Example_2_DNS_data.png)
+![Example](Images/Example_2_DNS_data.png)
 
 ###    Example 3 - Candidate not qualifying for any loans
 
-![Example](images/Example_3_DNQ.png)
+![Example](Images/Example_3_DNQ.png)
 ---
 
 
